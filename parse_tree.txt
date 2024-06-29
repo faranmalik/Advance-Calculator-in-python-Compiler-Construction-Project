@@ -1,0 +1,1 @@
+["bin_op", "*", ["identifier", "a"], ["number", "2"]]
